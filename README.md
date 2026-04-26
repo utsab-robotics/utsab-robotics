@@ -1,8 +1,7 @@
 <table>
 <tr>
 <td width="30%" align="center">
- <img src="https://raw.githubusercontent.com/Utsab96/Utsab96/main/profile.png" width="180"/>
-</td>
+<img src="https://raw.githubusercontent.com/Utsab96/Utsab96/main/utsab_ghosh.png" width="170"/></td>
 
 <td width="70%">
 
