@@ -1,5 +1,9 @@
 # Hi 👋 I'm Utsab Ghosh  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Utsab96/Utsab96/main/utsab ghosh.png" width="150"/>
+</p>
+
 ## 🚀 Robotics & Automation Engineer | AI | Computer Vision | Embedded Systems  
 
 📍 Kolkata, India  
