@@ -110,7 +110,7 @@ Experienced in developing scalable backend systems, APIs, and AI-powered automat
 
 ---
 
-### 🛠️ Software Development Intern  
+### 🛠️ Robotics Engineer Intern  
 **[Together Solutions](https://togethersolutions.co.in/)**  
 📍 Kolkata, India  
 *Jan 2024 – Jun 2024*  
