@@ -21,9 +21,9 @@ Experienced in developing scalable backend systems, APIs, and AI-powered automat
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg" width="120"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Raspberry_Pi_4_Model_B_-_Side.jpg" width="120"/>
-  <img src="https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetson-nano-dev-kit.jpg" width="120"/>
+  <img src="https://cdn.simpleicons.org/arduino/00979D" width="50"/>
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="50"/>
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" width="50"/>
 </p>
 
 ---
