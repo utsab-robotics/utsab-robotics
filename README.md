@@ -1,104 +1,135 @@
-## Hi 👋 I'm Utsab Ghosh  
+# Hi 👋 I'm Utsab Ghosh  
 
-### Backend Software Engineer | Node.js | Python | APIs  
+## 🚀 Robotics & Automation Engineer | AI | Computer Vision | Embedded Systems  
 
 📍 Kolkata, India  
+🔍 *GitHub: Utsab Ghosh | Robotics Engineer | AI Developer*  
 
-Backend Software Engineer with 1+ years of hands-on experience designing, scaling, and deploying production-grade RESTful APIs and microservices. Strong background in backend architecture, database optimization, AI-powered automation, and containerized deployments.
+Robotics & Automation Engineer with hands-on experience in building intelligent systems using **Arduino, ESP32, Raspberry Pi, and NVIDIA Jetson**. Skilled in **Machine Learning, Deep Learning, NLP, and Computer Vision (OpenCV)** with real-world robotics applications.
 
----
-
-## 🧠 Core Competencies
-
-- Backend API Engineering  
-- Microservices Architecture  
-- Database Optimization & Indexing  
-- AI Integration & Workflow Automation  
-- System Performance Improvement  
-- Cross-team Technical Collaboration  
+Experienced in developing scalable backend systems, APIs, and AI-powered automation pipelines.
 
 ---
 
-## 🛠️ Technical Skills
+## 🤖 Robotics & Hardware  
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=black"/>
+</p>
 
----
-
-### 🔧 Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-
----
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Raspberry_Pi_Logo.svg" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" height="60"/>
+</p>
 
 ---
 
-### 🔐 Architecture & Security
-- Microservices Architecture  
-- API Security  
-- Authentication & Authorization  
+## 🧠 AI & Computer Vision  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🚀 DevOps & Tooling
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge)
-![Cron](https://img.shields.io/badge/Cron_Jobs-4A90E2?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 💻 Programming Languages  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-### 🤖 AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge)
-![Perplexity](https://img.shields.io/badge/Perplexity_AI-000000?style=for-the-badge)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-1E1E1E?style=for-the-badge)
-![Vapi](https://img.shields.io/badge/Vapi_Voice_AI-5A00FF?style=for-the-badge)
+## 🔧 Backend & Systems  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+</p>
 
 ---
 
-## 💼 Professional Experience
+## 🗄️ Databases  
 
-### **Software Engineer**  
-**Web Spiders India Pvt. Ltd.**  
-*Dec 2024 – Present*
-
-- Architected and delivered **25+ production-grade REST APIs** using Node.js, Express.js, and PostgreSQL.
-- Improved API response times by **35%** through query optimization, indexing, and schema redesign.
-- Built real-time data synchronization pipelines integrating **Supabase, Firebase, and Monday.com APIs**.
-- Automated AI-powered data workflows using **OpenAI, Gemini, and Perplexity**, processing **10k+ records/day**.
-- Developed AI-driven voice interview systems using **Vapi Voice AI** and **Eleven Labs**, reducing manual screening by **60%**.
-- Implemented cron-based backend services for scheduling, notifications (FCM), and maintenance jobs.
-- Delivered real-time computer vision services using **YOLO-World** and **YOLO11VN-Face** with FastAPI/Flask.
-- Strengthened production reliability using **Docker**, **Jest testing**, and **SonarQube** analysis.
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
 ---
 
-## 📌 Key Project
+## 🚀 DevOps & Tools  
 
-### 🦎 Gecko — AI Recruiter Automation Platform
-*Apr 2024 – Present*
-
-- Designed backend microservices using **Node.js** and **PostgreSQL**.
-- Implemented automated candidate screening workflows.
-- Enabled AI-powered voice interviews, improving screening speed by **60%**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 🎓 Education
+## 💼 Professional Experience  
+
+### 🤖 Robotics Trainer  
+**[Roboplex Private Limited](https://www.linkedin.com/company/roboplex-private-limited/posts/?feedView=all)**  
+📍 Kolkata, India  
+*Apr 2026 – Present*  
+
+- Training students in **Robotics, Arduino, ESP32, and Embedded Systems**  
+- Teaching **Computer Vision (OpenCV)** and **AI fundamentals**  
+- Guiding hands-on projects like **Obstacle Avoiding Robot** and **Line Following Robot**  
+- Mentoring students in **Machine Learning and automation concepts**  
+
+---
+
+### 💻 Application Developer – Gen AI  
+**[Web Spiders India Pvt. Ltd.](https://webspiders.com/)**  
+📍 Kolkata, India  
+*Dec 2024 – Mar 2026*  
+
+- Developed and deployed **25+ production-grade REST APIs**  
+- Built **AI-powered automation pipelines (10k+ records/day)**  
+- Integrated **OpenAI, Gemini, and AI tools** into backend systems  
+- Improved performance by **35%**  
+- Built computer vision systems using **OpenCV & YOLO**  
+- Deployed applications using **Docker**  
+
+---
+
+### 🛠️ Software Development Intern  
+**[Together Solutions](https://togethersolutions.co.in/)**  
+📍 Kolkata, India  
+*Jan 2024 – Jun 2024*  
+
+- Worked on backend development using **Node.js and APIs**  
+- Gained experience in **database management and debugging**  
+- Assisted in real-world application development  
+
+---
+
+## 📌 Projects  
+
+- 🤖 Obstacle Avoiding Robot  
+- 🚗 Line Following Robot  
+- 👁️ Computer Vision Systems  
+- 🦎 Gecko — AI Recruiter Automation Platform  
+
+---
+
+## 🎓 Education  
 
 **B.Tech in Robotics & Automation**  
 The Neotia University  
@@ -107,19 +138,19 @@ The Neotia University
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications  
 
-- HackerRank ⭐⭐⭐ in Python & Problem Solving  
+- HackerRank ⭐⭐⭐ (Python & Problem Solving)  
 - AI & Machine Learning — AILABS  
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Portfolio & Profiles  
 
-- 📧 Email: utsab.ghosh96@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/utsab96  
 - 🌐 Portfolio: https://utsab96.github.io/portfolio/  
-- 📄 CV: https://utsab96.github.io/cv/  
+- 💼 LinkedIn: https://www.linkedin.com/in/utsab96/  
 - 💻 GitHub: https://github.com/Utsab96  
 
-⭐ *If you find my work useful, feel free to star my repositories.*
+---
+
+⭐ *Utsab Ghosh GitHub | Robotics Engineer India | AI Developer | Computer Vision Engineer*
