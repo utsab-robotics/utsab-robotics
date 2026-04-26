@@ -22,6 +22,7 @@ Experienced in developing scalable backend systems, APIs, and AI-powered automat
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/arduino/00979D" width="50"/>
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" width="50"/>
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="50"/>
   <img src="https://cdn.simpleicons.org/nvidia/76B900" width="50"/>
 </p>
