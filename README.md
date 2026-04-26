@@ -1,10 +1,3 @@
-<table>
-<tr>
-<td width="30%" align="center">
-<img src="https://raw.githubusercontent.com/Utsab96/Utsab96/main/utsab_ghosh.png" width="170"/></td>
-
-<td width="70%">
-
 # Hi 👋 I'm Utsab Ghosh  
 
 ## 🚀 Robotics & Automation Engineer | AI | Computer Vision | Embedded Systems  
@@ -15,10 +8,6 @@
 Robotics & Automation Engineer with hands-on experience in building intelligent systems using **Arduino, ESP32, Raspberry Pi, and NVIDIA Jetson**. Skilled in **Machine Learning, Deep Learning, NLP, and Computer Vision (OpenCV)** with real-world robotics applications.
 
 Experienced in developing scalable backend systems, APIs, and AI-powered automation pipelines.
-
-</td>
-</tr>
-</table>
 
 ---
 
