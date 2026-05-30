@@ -1,8 +1,8 @@
 # Utsab Ghosh
 
-## 🚀 Robotics Engineer | AI Engineer | Computer Vision Engineer | Senior Technical Trainer
+##  Robotics Engineer | AI Engineer | Computer Vision Engineer | Senior Technical Trainer
 
-📍 Kolkata, West Bengal, India
+ Kolkata, West Bengal, India
 
 Welcome to the GitHub profile of **Utsab Ghosh**, a Robotics Engineer and AI Developer specializing in Robotics, Artificial Intelligence, Computer Vision, Embedded Systems, IoT, Industrial Automation, and Backend Development.
 
@@ -10,18 +10,18 @@ Currently working as a **Senior Technical Trainer at RoboPleX Private Limited**,
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🤖 Robotics Engineer with expertise in intelligent robotic systems
-- 🧠 AI & Computer Vision Developer
-- 🔬 Embedded Systems & IoT Enthusiast
-- 💻 Backend Developer using Node.js and MySQL
-- 🎓 Senior Technical Trainer at RoboPleX Private Limited
-- 🚀 Passionate about Automation, Machine Learning, and Industrial Robotics
+-  Robotics Engineer with expertise in intelligent robotic systems
+-  AI & Computer Vision Developer
+-  Embedded Systems & IoT Enthusiast
+-  Backend Developer using Node.js and MySQL
+-  Senior Technical Trainer at RoboPleX Private Limited
+-  Passionate about Automation, Machine Learning, and Industrial Robotics
 
 ---
 
-## 🤖 Robotics & Embedded Systems
+##  Robotics & Embedded Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
@@ -45,7 +45,7 @@ Currently working as a **Senior Technical Trainer at RoboPleX Private Limited**,
 
 ---
 
-## 🧠 Artificial Intelligence & Computer Vision
+##  Artificial Intelligence & Computer Vision
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
@@ -106,7 +106,7 @@ Currently working as a **Senior Technical Trainer at RoboPleX Private Limited**,
 
 ---
 
-## 🚀 DevOps & Tools
+##  DevOps & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -124,11 +124,11 @@ Currently working as a **Senior Technical Trainer at RoboPleX Private Limited**,
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Senior Technical Trainer
 **RoboPleX Private Limited**  
-📍 Kolkata, India  
+ Kolkata, India  
 **March 2026 – Present**
 
 - Trained 100+ students in Robotics, AI, IoT, and Python
@@ -139,7 +139,7 @@ Currently working as a **Senior Technical Trainer at RoboPleX Private Limited**,
 
 ### Application Developer – Gen AI
 **Web Spiders India Pvt. Ltd.**  
-📍 Kolkata, India  
+ Kolkata, India  
 **December 2024 – March 2026**
 
 - Developed and maintained 25+ REST APIs
@@ -150,7 +150,7 @@ Currently working as a **Senior Technical Trainer at RoboPleX Private Limited**,
 
 ### Robotics Engineer Intern
 **Together Solutions**  
-📍 India  
+ India  
 **January 2024 – June 2024**
 
 - Worked on robotics and backend development projects
@@ -159,23 +159,23 @@ Currently working as a **Senior Technical Trainer at RoboPleX Private Limited**,
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🤖 Obstacle Avoiding Robot
+###  Obstacle Avoiding Robot
 Autonomous robot using ultrasonic sensors and Arduino for obstacle detection and navigation.
 
-### 🚗 Line Following Robot
+###  Line Following Robot
 Embedded robotics project using IR sensors and motor control systems.
 
-### 👁️ Computer Vision Systems
+###  Computer Vision Systems
 Real-time object detection and face recognition using OpenCV and YOLO.
 
-### 🦎 Gecko – AI Recruiter Automation Platform
+###  Gecko – AI Recruiter Automation Platform
 AI-powered recruitment automation platform integrating candidate analysis and workflow automation.
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### B.Tech in Robotics & Automation
 **The Neotia University**
@@ -185,7 +185,7 @@ CGPA: **8.54**
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
 - HackerRank Python Certification
 - HackerRank Problem Solving Certification
@@ -193,15 +193,15 @@ CGPA: **8.54**
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
-- Portfolio: https://utsab96.github.io/portfolio/
+- Portfolio: https://utsab-robotics.github.io/portfolio/
 - LinkedIn: https://linkedin.com/in/utsab-robotics
-- GitHub: https://github.com/Utsab96
+- GitHub: https://github.com/utsab-robotics
 
 ---
 
-## 🔍 Keywords
+##  Keywords
 
 Utsab Ghosh,
 Utsab Ghosh Robotics Engineer,
@@ -219,4 +219,4 @@ YOLO Developer,
 OpenCV Developer,
 Industrial Automation Engineer.
 
-⭐ Robotics Engineer | AI Engineer | Computer Vision Engineer | Senior Technical Trainer
+Robotics Engineer | AI Engineer | Computer Vision Engineer | Senior Technical Trainer
