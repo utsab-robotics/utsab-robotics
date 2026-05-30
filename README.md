@@ -1,17 +1,27 @@
-# Hi 👋 I'm Utsab Ghosh  
+# Utsab Ghosh
 
-## 🚀 Robotics & Automation Engineer | AI | Computer Vision | Embedded Systems  
+## 🚀 Robotics Engineer | AI Engineer | Computer Vision Engineer | Senior Technical Trainer
 
-📍 Kolkata, India  
-🔍 *GitHub: Utsab Ghosh | Robotics Engineer | AI Developer*  
+📍 Kolkata, West Bengal, India
 
-Robotics & Automation Engineer with hands-on experience in building intelligent systems using **Arduino, ESP32, Raspberry Pi, and NVIDIA Jetson**. Skilled in **Machine Learning, Deep Learning, NLP, and Computer Vision (OpenCV)** with real-world robotics applications.
+Welcome to the GitHub profile of **Utsab Ghosh**, a Robotics Engineer and AI Developer specializing in Robotics, Artificial Intelligence, Computer Vision, Embedded Systems, IoT, Industrial Automation, and Backend Development.
 
-Experienced in developing scalable backend systems, APIs, and AI-powered automation pipelines.
+Currently working as a **Senior Technical Trainer at RoboPleX Private Limited**, training students and professionals in Robotics, AI, Computer Vision, Arduino, Raspberry Pi, ESP32, Machine Learning, and Automation Technologies.
 
 ---
 
-## 🤖 Robotics & Hardware  
+## 👨‍💻 About Me
+
+- 🤖 Robotics Engineer with expertise in intelligent robotic systems
+- 🧠 AI & Computer Vision Developer
+- 🔬 Embedded Systems & IoT Enthusiast
+- 💻 Backend Developer using Node.js and MySQL
+- 🎓 Senior Technical Trainer at RoboPleX Private Limited
+- 🚀 Passionate about Automation, Machine Learning, and Industrial Robotics
+
+---
+
+## 🤖 Robotics & Embedded Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
@@ -20,59 +30,83 @@ Experienced in developing scalable backend systems, APIs, and AI-powered automat
   <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=black"/>
 </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/arduino/00979D" width="50"/>
-  <img src="https://cdn.simpleicons.org/espressif/E7352C" width="50"/>
-  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="50"/>
-  <img src="https://cdn.simpleicons.org/nvidia/76B900" width="50"/>
-</p>
+### Core Robotics Skills
+
+- Robotics Engineering
+- Industrial Automation
+- Embedded Systems
+- IoT Development
+- Arduino Programming
+- Raspberry Pi
+- ESP32 Development
+- Sensor Integration
+- Robotics Prototyping
+- Industrial Robotics
 
 ---
 
-## 🧠 AI & Computer Vision  
+## 🧠 Artificial Intelligence & Computer Vision
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge"/>
 </p>
 
+### AI Skills
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- OpenCV
+- YOLO Object Detection
+- Face Recognition
+- Image Processing
+- Artificial Intelligence
+- AI Automation
+
 ---
 
-## 💻 Programming Languages  
+## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
+
+**Languages**
+
+- Python
+- JavaScript
+- C++
+- SQL
 
 ---
 
-## 🔧 Backend & Systems  
+## 🔧 Backend Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
 </p>
+
+### Backend Skills
+
+- Node.js
+- Express.js
+- REST APIs
+- MySQL
+- PostgreSQL
+- MongoDB
+- API Development
+- Backend Architecture
 
 ---
 
-## 🗄️ Databases  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
----
-
-## 🚀 DevOps & Tools  
+## 🚀 DevOps & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -80,78 +114,109 @@ Experienced in developing scalable backend systems, APIs, and AI-powered automat
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+**Tools**
+
+- Docker
+- Linux
+- Git
+- GitHub
+- Postman
+
 ---
 
-## 💼 Professional Experience  
+## 💼 Professional Experience
 
-### 🤖 Robotics Trainer  
-**[Roboplex Private Limited](https://www.linkedin.com/company/roboplex-private-limited/posts/?feedView=all)**  
+### Senior Technical Trainer
+**RoboPleX Private Limited**  
 📍 Kolkata, India  
-*Apr 2026 – Present*  
+**March 2026 – Present**
 
-- Training students in **Robotics, Arduino, ESP32, and Embedded Systems**  
-- Teaching **Computer Vision (OpenCV)** and **AI fundamentals**  
-- Guiding hands-on projects like **Obstacle Avoiding Robot** and **Line Following Robot**  
-- Mentoring students in **Machine Learning and automation concepts**  
+- Trained 100+ students in Robotics, AI, IoT, and Python
+- Led 20+ robotics and automation projects
+- Delivered practical training in Computer Vision and Embedded Systems
+- Mentored robotics competition teams and AI projects
+- Developed technical learning curricula
 
----
-
-### 💻 Application Developer – Gen AI  
-**[Web Spiders India Pvt. Ltd.](https://webspiders.com/)**  
+### Application Developer – Gen AI
+**Web Spiders India Pvt. Ltd.**  
 📍 Kolkata, India  
-*Dec 2024 – Mar 2026*  
+**December 2024 – March 2026**
 
-- Developed and deployed **25+ production-grade REST APIs**  
-- Built **AI-powered automation pipelines (10k+ records/day)**  
-- Integrated AI tools into backend systems  
-- Improved performance by **35%**  
-- Built computer vision systems using **OpenCV & YOLO**  
-- Deployed applications using **Docker**  
+- Developed and maintained 25+ REST APIs
+- Built AI-powered automation systems processing large-scale datasets
+- Developed Computer Vision applications using OpenCV and YOLO
+- Improved application performance by 35%
+- Deployed containerized applications using Docker
 
----
+### Robotics Engineer Intern
+**Together Solutions**  
+📍 India  
+**January 2024 – June 2024**
 
-### 🛠️ Robotics Engineer Intern  
-**[Together Solutions](https://togethersolutions.co.in/)**  
-📍 Kolkata, India  
-*Jan 2024 – Jun 2024*  
-
-- Worked on backend development using **Node.js and APIs**  
-- Gained experience in **database management and debugging**  
-- Assisted in real-world application development  
+- Worked on robotics and backend development projects
+- Integrated APIs and database systems
+- Assisted in industrial automation solutions
 
 ---
 
-## 📌 Projects  
+## 📌 Featured Projects
 
-- 🤖 Obstacle Avoiding Robot  
-- 🚗 Line Following Robot  
-- 👁️ Computer Vision Systems  
-- 🦎 Gecko — AI Recruiter Automation Platform  
+### 🤖 Obstacle Avoiding Robot
+Autonomous robot using ultrasonic sensors and Arduino for obstacle detection and navigation.
 
----
+### 🚗 Line Following Robot
+Embedded robotics project using IR sensors and motor control systems.
 
-## 🎓 Education  
+### 👁️ Computer Vision Systems
+Real-time object detection and face recognition using OpenCV and YOLO.
 
-**B.Tech in Robotics & Automation**  
-The Neotia University  
-*2021 – 2024*  
-**CGPA:** 8.54  
+### 🦎 Gecko – AI Recruiter Automation Platform
+AI-powered recruitment automation platform integrating candidate analysis and workflow automation.
 
 ---
 
-## 🏅 Certifications  
+## 🎓 Education
 
-- HackerRank ⭐⭐⭐ (Python & Problem Solving)  
-- AI & Machine Learning — AILABS  
+### B.Tech in Robotics & Automation
+**The Neotia University**
+2021 – 2024
 
----
-
-## 🌐 Portfolio & Profiles  
-
-- 🌐 Portfolio: https://utsab96.github.io/portfolio/  
-- 💼 LinkedIn: https://www.linkedin.com/in/utsab96/  
-- 💻 GitHub: https://github.com/Utsab96  
+CGPA: **8.54**
 
 ---
 
-⭐ *Utsab Ghosh GitHub | Robotics Engineer India | AI Developer | Computer Vision Engineer*
+## 🏅 Certifications
+
+- HackerRank Python Certification
+- HackerRank Problem Solving Certification
+- AI & Machine Learning Certification – AILABS
+
+---
+
+## 🌐 Connect With Me
+
+- Portfolio: https://utsab96.github.io/portfolio/
+- LinkedIn: https://linkedin.com/in/utsab-robotics
+- GitHub: https://github.com/Utsab96
+
+---
+
+## 🔍 Keywords
+
+Utsab Ghosh,
+Utsab Ghosh Robotics Engineer,
+Utsab Ghosh AI Engineer,
+Utsab Ghosh Computer Vision Engineer,
+Utsab Ghosh GitHub,
+Robotics Engineer Kolkata,
+Robotics Engineer India,
+AI Developer India,
+Computer Vision Developer,
+Embedded Systems Engineer,
+Arduino Developer,
+Raspberry Pi Developer,
+YOLO Developer,
+OpenCV Developer,
+Industrial Automation Engineer.
+
+⭐ Robotics Engineer | AI Engineer | Computer Vision Engineer | Senior Technical Trainer
